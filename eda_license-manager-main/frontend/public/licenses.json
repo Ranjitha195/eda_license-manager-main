@@ -1,0 +1,1212 @@
+[
+  {
+    "feature": "111",
+    "totalLicenses": 2580,
+    "inUse": 183,
+    "available": 2397,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "206",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "21060",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "21400",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "32_28nm_to_10nm",
+    "totalLicenses": 460,
+    "inUse": 0,
+    "available": 460,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "940",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "945",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "AMS_Designer_Link",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "AMS_environment",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "AMS_utilities",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Affirma_sim_analysis_env",
+    "totalLicenses": 1260,
+    "inUse": 7,
+    "available": 1253,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "COSLITE_ACCESS",
+    "totalLicenses": 1,
+    "inUse": 1,
+    "available": 0,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Cadence_Analytics_Developer",
+    "totalLicenses": 300,
+    "inUse": 0,
+    "available": 300,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Cadence_Analytics_Streaming",
+    "totalLicenses": 300,
+    "inUse": 0,
+    "available": 300,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Conformal_ECO_GXL",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Conformal_Low_Power",
+    "totalLicenses": 260,
+    "inUse": 5,
+    "available": 255,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "DFM_Core_Technology",
+    "totalLicenses": 920,
+    "inUse": 0,
+    "available": 920,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Encounter_C",
+    "totalLicenses": 460,
+    "inUse": 0,
+    "available": 460,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Genus_CPU_Opt",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Genus_Low_Power_Opt",
+    "totalLicenses": 260,
+    "inUse": 1,
+    "available": 259,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Genus_Physical_Opt",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Genus_Synthesis",
+    "totalLicenses": 260,
+    "inUse": 136,
+    "available": 124,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Innovus_20nm_Opt",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Innovus_7nm_Opt",
+    "totalLicenses": 260,
+    "inUse": 6,
+    "available": 254,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Innovus_C",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Innovus_Hier_Opt",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Innovus_Impl_System",
+    "totalLicenses": 260,
+    "inUse": 152,
+    "available": 108,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Innovus_MS_Opt",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Integrated_Metrics_Center",
+    "totalLicenses": 800,
+    "inUse": 0,
+    "available": 800,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Joules_RTL_Power",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "LEAPFROG-CV",
+    "totalLicenses": 600,
+    "inUse": 0,
+    "available": 600,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Liberate_Client",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Liberate_MX_Client",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Liberate_MX_Server",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Liberate_Server",
+    "totalLicenses": 200,
+    "inUse": 1,
+    "available": 199,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Modus_DFT_Opt",
+    "totalLicenses": 260,
+    "inUse": 1,
+    "available": 259,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Modus_PMBIST_Opt",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Modus_common_ui",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_16nm",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_DRC",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_DesignReview",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_DesignReview_Layout",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_DesignReview_Mask",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_LVS",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_Quickview",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_RV",
+    "totalLicenses": 1300,
+    "inUse": 0,
+    "available": 1300,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_UI",
+    "totalLicenses": 1300,
+    "inUse": 0,
+    "available": 1300,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_advdrc",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_advlvs",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_dfmfill",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_int",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_mpt",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Pegasus_perc",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Phys_Ver_Sys_Adv_Ana_Opt",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Phys_Ver_Sys_Adv_Device",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Phys_Ver_Sys_Const_Validator",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Phys_Ver_Sys_DRC_XL",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Phys_Ver_Sys_Design_Ana",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Phys_Ver_Sys_LVS_XL",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Phys_Ver_Sys_Prog_ERC",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Phys_Ver_Sys_Results_Mgr",
+    "totalLicenses": 600,
+    "inUse": 0,
+    "available": 600,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Phys_Ver_Sys_Results_Viewer",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QRC_Advanced_Analysis",
+    "totalLicenses": 460,
+    "inUse": 0,
+    "available": 460,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QRC_Advanced_Modeling",
+    "totalLicenses": 460,
+    "inUse": 0,
+    "available": 460,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QRC_Advanced_Modeling_20",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QRC_Advanced_Node_Modeling",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QuickView_CH_SL",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QuickView_GDSII",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QuickView_GL1",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QuickView_HITACHI",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QuickView_JEOL",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QuickView_LAFF",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QuickView_MEBES",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QuickView_OA",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QuickView_OASIS",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QuickView_SemiP10",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "QuickView_TOSHIBA",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Spectre_AMSD_Lk",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Spectre_XPS",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Spectre_char_opt",
+    "totalLicenses": 2000,
+    "inUse": 0,
+    "available": 2000,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Stratus_FloatingPoint",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Stratus_HLS_L",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Stratus_HLS_XL",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Stratus_IDE",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Tempus_Timing_Signoff_TSO",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Tempus_Timing_Signoff_XL",
+    "totalLicenses": 260,
+    "inUse": 1,
+    "available": 259,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "VDS_POWER",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "VDS_TIMING",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Variety_Client",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Variety_Server",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Virtuoso_ADE_Assembler",
+    "totalLicenses": 200,
+    "inUse": 15,
+    "available": 185,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Virtuoso_Acceler_Parallel_sc",
+    "totalLicenses": 200,
+    "inUse": 1,
+    "available": 199,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Virtuoso_Adv_Node_Framework",
+    "totalLicenses": 600,
+    "inUse": 183,
+    "available": 417,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Virtuoso_Adv_Node_Opt_Layout",
+    "totalLicenses": 200,
+    "inUse": 60,
+    "available": 140,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Virtuoso_DRC_Opt",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Virtuoso_Digital_Implem",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Virtuoso_Layout_Suite_EXL",
+    "totalLicenses": 200,
+    "inUse": 16,
+    "available": 184,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Virtuoso_Layout_Suite_GXL",
+    "totalLicenses": 5520,
+    "inUse": 582,
+    "available": 4938,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Virtuoso_QRC_Extraction_XL",
+    "totalLicenses": 460,
+    "inUse": 0,
+    "available": 460,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Virtuoso_Schematic_Editor_XL",
+    "totalLicenses": 200,
+    "inUse": 137,
+    "available": 63,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Virtuoso_Spectre",
+    "totalLicenses": 200,
+    "inUse": 1,
+    "available": 199,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Virtuoso_Spectre_RF",
+    "totalLicenses": 200,
+    "inUse": 2,
+    "available": 198,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Virtuoso_Visual_Analysis_XL",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Voltus_Power_Integrity_Fi_XL",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Voltus_Power_Integrity_XL",
+    "totalLicenses": 260,
+    "inUse": 1,
+    "available": 259,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Xcelium_SC_DMS_Option",
+    "totalLicenses": 500,
+    "inUse": 0,
+    "available": 500,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Xcelium_Safety_Sim",
+    "totalLicenses": 300,
+    "inUse": 0,
+    "available": 300,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "Xcelium_Single_Core",
+    "totalLicenses": 500,
+    "inUse": 0,
+    "available": 500,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "jasper_advp",
+    "totalLicenses": 40,
+    "inUse": 0,
+    "available": 40,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "jasper_dao",
+    "totalLicenses": 40,
+    "inUse": 0,
+    "available": 40,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "jasper_fst",
+    "totalLicenses": 300,
+    "inUse": 0,
+    "available": 300,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "jasper_papp",
+    "totalLicenses": 40,
+    "inUse": 0,
+    "available": 40,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "jasper_pcov",
+    "totalLicenses": 40,
+    "inUse": 0,
+    "available": 40,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "jasper_pint",
+    "totalLicenses": 40,
+    "inUse": 0,
+    "available": 40,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "modus_atpg",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "modus_atpg_mcpu",
+    "totalLicenses": 260,
+    "inUse": 0,
+    "available": 260,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "plotVersa",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "verisium_debug",
+    "totalLicenses": 300,
+    "inUse": 0,
+    "available": 300,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "vmanager_client",
+    "totalLicenses": 200,
+    "inUse": 0,
+    "available": 200,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "vmanager_project",
+    "totalLicenses": 40,
+    "inUse": 0,
+    "available": 40,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  },
+  {
+    "feature": "vmanager_safety_client",
+    "totalLicenses": 40,
+    "inUse": 0,
+    "available": 40,
+    "version": "23.1",
+    "expiry": "06-aug-2025",
+    "tool": "synopsys",
+    "users": []
+  }
+]
