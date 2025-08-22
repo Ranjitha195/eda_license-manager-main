@@ -6,10 +6,8 @@ import ToolFilter from './components/ToolFilter';
 import LicenseCharts from './components/LicenseCharts';
 // import path from 'path'; // Removed: Added for path.basename
 
-// Configure axios base URL for development
-if (process.env.NODE_ENV === 'development') {
-  axios.defaults.baseURL = 'http://localhost:3001';
-}
+// Configure axios base URL
+axios.defaults.baseURL = 'http://192.168.92.34:3001';
 
 function App() {
   const [licenseData, setLicenseData] = useState([]);

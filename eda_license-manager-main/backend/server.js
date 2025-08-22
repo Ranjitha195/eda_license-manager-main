@@ -295,8 +295,8 @@ app.get('/api/health', (req, res) => {
 });
 
 // Start server
-const server = app.listen(port, '0.0.0.0', () => {
-  console.log(`Server is running on http://localhost:${port}`);
+const server = app.listen(port, '192.168.92.34', () => {
+  console.log(`Server is running on 192.168.92.34:${port}`);
   console.log('Press Ctrl+C to stop the server');
   console.log(`Available endpoints:`);
   console.log(`  GET  /api/health - Health check`);

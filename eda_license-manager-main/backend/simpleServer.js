@@ -36,8 +36,8 @@ app.get('/api/licenses', (req, res) => {
 });
 
 // Start the server
-const server = app.listen(port, '0.0.0.0', () => {
-  console.log(`Simple server is running on http://localhost:${port}`);
+const server = app.listen(port, '192.168.92.34', () => {
+  console.log(`Simple server is running on http://192.168.92.34:${port}`);
   console.log('Endpoints:');
   console.log(`  GET /api/health - Health check`);
   console.log(`  GET /api/licenses - Sample license data`);
