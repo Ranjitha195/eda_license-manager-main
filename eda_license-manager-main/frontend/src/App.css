@@ -1,0 +1,142 @@
+.app {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.app-header {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 2rem 0;
+  text-align: center;
+  color: white;
+}
+
+.header-content h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.header-content p {
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+
+.app-main {
+  padding: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.controls-section {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+
+
+.error-message {
+  background: linear-gradient(135deg, #ff6b6b, #ee5a52);
+  color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Message Card Styling */
+.message-card {
+  padding: 1.25rem 1.5rem;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.1rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  color: white;
+}
+
+.message-card.success {
+  background: linear-gradient(135deg, #28a745, #218838);
+}
+
+.message-card.error {
+  background: linear-gradient(135deg, #dc3545, #c82333);
+}
+
+.message-card.warning {
+  background-color: #fff9e6; /* Light yellow/orange */
+  color: #8a6d3b; /* Dark yellow/orange text */
+  border-left: 5px solid #ffc107; /* Orange border */
+}
+
+.message-card .message-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px; /* Space between buttons */
+  margin-top: 15px; /* Space above buttons */
+}
+
+.message-card .message-actions button {
+  padding: 8px 15px;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.message-card .message-actions .confirm-button {
+  background-color: #dc3545; /* Red for confirm delete */
+  color: white;
+  border: 1px solid #dc3545;
+}
+
+.message-card .message-actions .confirm-button:hover {
+  background-color: #c82333;
+  border-color: #bd2130;
+}
+
+.message-card .message-actions .cancel-button {
+  background-color: #6c757d; /* Grey for cancel */
+  color: white;
+  border: 1px solid #6c757d;
+}
+
+.message-card .message-actions .cancel-button:hover {
+  background-color: #5a6268;
+  border-color: #545b62;
+}
+
+.table-section {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+@media (max-width: 768px) {
+  .app-main {
+    padding: 1rem;
+  }
+  
+  .controls-section {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .header-content h1 {
+    font-size: 2rem;
+  }
+  
+  .table-section {
+    padding: 1rem;
+  }
+}

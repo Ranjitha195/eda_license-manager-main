@@ -1,0 +1,224 @@
+.filter-container {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+
+.tool-filter,
+.expiry-filter {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.tool-select-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem; /* Space between select and button */
+}
+
+.filter-label {
+  font-weight: 600;
+  color: #333;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.tool-select,
+.expiry-select {
+  padding: 0.75rem 1rem;
+  border: 2px solid #e1e5e9;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  background: white;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-width: 150px;
+}
+
+.tool-select:hover,
+.expiry-select:hover {
+  border-color: #667eea;
+  box-shadow: 0 2px 8px rgba(102, 126, 234, 0.1);
+}
+
+.tool-select:focus,
+.expiry-select:focus {
+  outline: none;
+  border-color: #667eea;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.tool-select option {
+  background: white;
+  color: #333;
+  padding: 0.5rem;
+}
+
+.delete-tool-button {
+  padding: 0.75rem 1rem;
+  background-color: transparent; /* Changed to transparent */
+  color: #dc3545; /* Darker red for text */
+  border: 2px solid #dc3545; /* Added border */
+  border-radius: 8px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.delete-tool-button:hover {
+  background-color: #dc3545; /* Solid red on hover */
+  color: white; /* White text on hover */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.delete-tool-button:active {
+  transform: translateY(0);
+}
+
+/* Upload Container */
+.upload-container {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-left: auto;
+}
+
+.upload-button {
+  padding: 0.75rem 1rem; /* Matched padding with selects */
+  border: 2px solid #e1e5e9; /* Matched border with selects */
+  border-radius: 8px; /* Matched border-radius with selects */
+  font-size: 0.95rem; /* Matched font-size with selects */
+  background: white; /* Changed to white background */
+  color: #333; /* Changed text color to match selects */
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-width: 150px; /* Ensures consistent width with selects */
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center content */
+  gap: 0.5rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.upload-button:hover {
+  border-color: #667eea; /* Matched hover border color */
+  box-shadow: 0 2px 8px rgba(102, 126, 234, 0.1); /* Matched hover shadow */
+  transform: none; /* Remove transform on hover */
+  background-color: white; /* Keep background white on hover */
+}
+
+.upload-button:active {
+  transform: none; /* Remove transform on active */
+}
+
+/* File Viewer */
+.file-viewer {
+  margin-top: 1.5rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  background: white;
+}
+
+.file-viewer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1.25rem;
+  background-color: #f9fafb;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.file-viewer-header h4 {
+  margin: 0;
+  font-size: 1rem;
+  color: #1f2937;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-grow: 1;
+}
+
+.close-button {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  color: #6b7280;
+  cursor: pointer;
+  padding: 0 0.5rem;
+  line-height: 1;
+  transition: color 0.2s;
+}
+
+.close-button:hover {
+  color: #ef4444;
+}
+
+.file-content {
+  max-height: 400px;
+  overflow-y: auto;
+  padding: 1.25rem;
+  background: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #111827;
+}
+
+.file-content pre {
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.binary-file {
+  text-align: center;
+  padding: 2rem;
+  color: #6b7280;
+}
+
+.download-link {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #4f46e5;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  transition: background-color 0.2s;
+}
+
+.download-link:hover {
+  background-color: #4338ca;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .filter-container {
+    flex-direction: column;
+    gap: 1rem;
+    align-items: stretch;
+  }
+  
+  .tool-select,
+  .expiry-select {
+    min-width: 100%;
+  }
+  
+  .upload-container {
+    margin-left: 0;
+    justify-content: space-between;
+  }
+  
+  .file-name {
+    max-width: 120px;
+  }
+}
